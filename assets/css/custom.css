@@ -1,0 +1,43 @@
+.sidebar .sidebar-wrapper {
+    overflow-x: hidden;
+    height: initial;
+}
+
+.content {
+    position: relative;
+    overflow: hidden;
+}
+
+#upload {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #f4f3ef;
+    z-index: 9;
+}
+
+#upload-box {
+    margin: 60px;
+    height: 150px;
+    border: dotted #333;
+    text-align: center;
+    align-content: center;
+    line-height: 150px;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+#number-of-completed-project-date-range-sellector {
+    color: #9a9a9a;
+    height: 30px;
+    line-height: 30px;
+    margin-top: -9px;
+    border: none;
+}
+
+.page-item.active .page-link {
+    background-color: #ef8157;
+    border-color: #da7954;
+}
