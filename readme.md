@@ -2,6 +2,10 @@
 
 We don't need keep running server. We can read xlsx and create database on client side. This project about spreadsheet virtualization. This repository just for sample. You can easily clone and modify.
 
+![Preview](https://raw.githubusercontent.com/emircanerkul/data-virtualization/master/preview.png)
+
+### [Click](https://emircanerkul.github.io/data-virtualization/) for Online Preview
+
 ### Requirement
 * Just HTTP Web Server (Great isn't it?)
 
