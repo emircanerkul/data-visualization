@@ -1,30 +1,33 @@
-# Data Virtualization with SheetJS + WebSQL
+## Data Visualization with SheetJS + WebSQL ([Limited Support](https://caniuse.com/#feat=sql-storage))
 
-We don't need keep running server. We can read xlsx and create database on client side. This project about spreadsheet virtualization. This repository just for sample. You can easily clone and modify.
+We don't need keep running server. We can read xlsx and create database on client side. This project about spreadsheet visualization. This repository just for sample. You can easily clone and modify.
 
-![Preview](https://raw.githubusercontent.com/emircanerkul/data-virtualization/master/preview.png)
+![Preview](https://raw.githubusercontent.com/emircanerkul/data-visualization/master/preview.png)
 
-### [Click](https://emircanerkul.github.io/data-virtualization/) for Online Preview
+#### [Click](https://emircanerkul.github.io/data-visualization/) for Online Preview
 
-### Requirement
-* Just HTTP Web Server (Great isn't it?)
+#### Requirement
 
-### Installation
-* Install [Docker Desktop](https://www.docker.com/get-started)
-* Clone Project
-* Open Terminal in Project Dir
-* ```docker run --rm -v $(pwd):/usr/share/nginx/html:ro -p 80:80```
-* Visit 127.0.0.1
+- Just HTTP Web Server (Great isn't it?)
 
-### Special thanks for
+#### Installation
 
-* SheetJS https://github.com/sheetjs/sheetjs
-* Paper Dashboard https://github.com/creativetimofficial/paper-dashboard
-* DataTables https://github.com/DataTables/DataTables
-* Bootstrap https://github.com/twbs/bootstrap
-* AlertifyJS https://github.com/MohammadYounes/AlertifyJS
-* PopperJS https://github.com/popperjs/popper-core
-* Favicon http://glyphish.com/
+- Install [Docker Desktop](https://www.docker.com/get-started)
+- Clone Project
+- Open Terminal in Project Dir
+- `docker run --rm -v $(pwd):/usr/share/nginx/html:ro -p 80:80`
+- Visit 127.0.0.1
 
-### License
+#### Special thanks for
+
+- SheetJS https://github.com/sheetjs/sheetjs
+- Paper Dashboard https://github.com/creativetimofficial/paper-dashboard
+- DataTables https://github.com/DataTables/DataTables
+- Bootstrap https://github.com/twbs/bootstrap
+- AlertifyJS https://github.com/MohammadYounes/AlertifyJS
+- PopperJS https://github.com/popperjs/popper-core
+- Favicon http://glyphish.com/
+
+#### License
+
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
