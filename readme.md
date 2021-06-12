@@ -1,6 +1,6 @@
 ## Data Visualization with SheetJS + WebSQL ([Limited Support](https://caniuse.com/#feat=sql-storage))
 
-We don't need keep running server. We can read xlsx and create database on client side. This project about spreadsheet visualization. This repository just for sample. You can easily clone and modify.
+We don't need keep running server. We can read xlsx file and create database on client side. This project about spreadsheet visualization.
 
 ![Preview](https://raw.githubusercontent.com/emircanerkul/data-visualization/master/preview.png)
 
